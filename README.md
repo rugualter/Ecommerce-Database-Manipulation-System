@@ -8,7 +8,7 @@ An e-commerce database manipulation system in prolog application-based inventory
 2. Open Cygwin Terminal
 
 3. Go to project folder
-$ cd eFolioB1802336RudiOliveira
+$ cd yourfolder
 
 4. Compile and run the program
 $ swipl ecommercemanipulation.pl
